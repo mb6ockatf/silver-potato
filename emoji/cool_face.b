@@ -1,5 +1,5 @@
 #!/usr/bin/env brainfuck
-# happy penguin emoji
+# cool face emoji
 
 print ( | 40:
 	>>++++
@@ -9,15 +9,24 @@ print ( | 40:
 	]
 	<.
 
-print 3 ^ | 94:
+print asterisk | 42:
+	>>++++++
+	[
+		<+++++++
+		>-
+	]
+	<.
+
+print underscore | 95:
 	>>+++++
 	[
 		<+++++++++++++++++++
 		>-
 	]
-	<-
-	...
+	<.
+
+print asterisk | 42:
+	<.>
 
 print ) | 41:
-	<+
-	.
+	<<+.
