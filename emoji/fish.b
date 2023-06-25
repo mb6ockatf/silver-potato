@@ -2,13 +2,8 @@
 # fish emoji
 
 print more symbol | 62:
-	>>++++++
-	[
-		<++++++++++
-		>-
-	]
-	<++
-	.
+	>>++++++[<++++++++++>-]
+	<++.
 
 print less symbol | 60:
 	--.
