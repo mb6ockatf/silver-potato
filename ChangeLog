@@ -1,0 +1,201 @@
+commit f17e0fcc8a4ce108f6e8156f84d4cf49d297333f
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:05:57 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 0896acd403e94a9c5c5150e4e0438832b31d9345
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 20:52:07 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit 523c262a2820d885d26bb704ed58eb47288007b4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon Jun 10 16:01:50 2024 +0300
+
+    revert: interpreter.cpp
+    
+    remove perl interpreter cause it does not work
+
+commit 8575ed81785c7b8874e66d1826f0d394f432cc94
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu May 9 15:12:39 2024 +0300
+
+    docs: md -> textile
+
+commit 1daa477615585d46d336620f08668bf76a4cd906
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue Apr 9 22:04:49 2024 +0300
+
+    feat:  <(^-^)>
+
+commit 02be38aab185bcd7c79a8580ce4e5c8ce1b62d69
+Author: Walter White <mb6ockatf@relay.firefox.com>
+Date:   Sat Jan 27 23:06:00 2024 +0300
+
+    Delete bf_interpreter.cpp
+
+commit 206f6ec2d57042c9eb0190228cf0777b3295ad4a
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 22:21:47 2023 +0300
+
+    feat(penguin_headphones.b): added
+    
+    resolve #1
+
+commit 3da33b74a4cfe5fdcefb8644a8079dcb664910cf
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 22:16:25 2023 +0300
+
+    feat(mustache_face.b): added
+
+commit 20a819eeae1c1dfbadd08f3f81e06df2bbc90618
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 22:12:16 2023 +0300
+
+    feat(cute_mouse.b): added
+    
+    - fix extra space in square table
+
+commit 821d2daf71816bb1b04e655d7d030536a9a9c470
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 22:03:40 2023 +0300
+
+    feat(cute_bunny.b): added
+    
+    - refactored some files
+
+commit 008e88c290f25b6d96f0ab5a168c332004ffa509
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 21:35:29 2023 +0300
+
+    feat(cow.b): added
+
+commit b69249ce7ba21551bab057ff339541802170cff6
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 20:27:48 2023 +0300
+
+    feat(rose.b): added
+
+commit c82fe2d21c8478ef9546b71704abd04b97cca415
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 20:17:57 2023 +0300
+
+    feat(cool_face.b): added
+    
+    converted 4 space indents to tabs
+
+commit cad3d95671165cb5dbed198bb20dd00cf7a0c0fd
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:41:39 2023 +0300
+
+    feat(small_cat.b): added
+
+commit e8fcba6f87fcf09efc92bf61a035e44f58ab905f
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:38:06 2023 +0300
+
+    feat(monkey_face.b): added
+
+commit f3702424bf420367d8168f8a659ef8b53b6c55b0
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:34:44 2023 +0300
+
+    feat(cool_guy.b): added
+
+commit 373438e829ad2467a411dfa93d519b1f73629179
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:32:01 2023 +0300
+
+    feat(rock_on.b): added
+
+commit 5abf63bd20478b8f6391690414ebd6f6dc90c7a3
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:26:31 2023 +0300
+
+    feat(fish.b): added
+
+commit 019a905ba1640b993a4ea255e7d4c3accbc225df
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:22:41 2023 +0300
+
+    feat(happy_penguin.b): added
+
+commit 26fd7be08f3d8de31ef1a5eeeeeba3c27c6cf255
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:19:01 2023 +0300
+
+    feat(happy_beard_face.b): added
+
+commit d48bbe9b3d1573e9d15aaaf852739a6805b93009
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:15:49 2023 +0300
+
+    feat(heart.b): added
+
+commit 8dcf19d29d176026000db039a92a86d32c88a742
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 19:12:43 2023 +0300
+
+    feat(vhs.b): added
+
+commit 025b7418ce355769d3b9b3798d2632ef4245564c
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 18:55:30 2023 +0300
+
+    feat(cup.b): added
+
+commit 25b309b087c6901fab220b2ff748f92560d62763
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 18:50:45 2023 +0300
+
+    feat(cat.b): added
+
+commit 7d2f505074db9d84271a9fab316ac5c9cadf4f02
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 18:43:14 2023 +0300
+
+    feat(robot.b): added
+
+commit 1be7f879f5958586fa33aa378eadc982a6217b6f
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 18:34:04 2023 +0300
+
+    feat(alien.b): added
+
+commit 4b2fe3fa3f960c256ecedb504b835978daf85a5d
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Jun 25 00:26:02 2023 +0300
+
+    feat(squares table): added
+    
+    also, write comments to two powers table
+    small fixes to bf preparator
+
+commit eb97939102c401884a51cd498694398790defe27
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sat Jun 24 00:48:03 2023 +0300
+
+    feat(bf code preparator): added
+
+commit f31eb84d6041652b010b194e0962dea86eda14f6
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sat Jun 24 00:23:59 2023 +0300
+
+    feat: add two_powers_table.b
+
+commit 05091dafe546af6bbfee4329f1fb05c1cfbdbfc0
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Fri Jun 23 17:25:12 2023 +0300
+
+    feat(bf interpreter): added
+    
+    - corrected typo in README.md
+    - added .gitignore
+
+commit 0ebabfa825e73b89a33f066adee9a38658123fbb
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Jun 23 17:14:34 2023 +0300
+
+    Initial commit
