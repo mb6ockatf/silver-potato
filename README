@@ -1,0 +1,15 @@
+silver-potato -- useful outputs from brainfuck code
+===================================================
+
+silver-potato provides useful outputs with a bunch of brainfuck code:
+the emoji/ directory holds programs that print text emoticons (a cat,
+a cow, a penguin and more), and bf_preparator.sh strips everything but
+brainfuck commands from a file.
+
+Copying
+-------
+
+Copyright (C) 2023-2024 mb6ockatf
+
+silver-potato is released under the GNU General Public License,
+version 3; see COPYING.
